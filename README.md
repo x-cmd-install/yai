@@ -12,6 +12,17 @@ Your AI powered terminal assistant.
 x install yai
 ```
 
+## Code insight
+
+Total: **2,364** lines of code across **44** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 2,245 | 19 | 460 | 33 |
+| Yaml | 60 | 0 | 5 | 2 |
+| Sh | 59 | 2 | 11 | 2 |
+| Markdown | 0 | 171 | 113 | 7 |
+
 ## Source
 
 - **Upstream**: <https://github.com/ekkinox/yai>
@@ -23,6 +34,25 @@ x install yai
 - **Latest**: `0.6.0` (2023-04-25)
 - **Last commit**: 2023-12-14
 - **Assets in release**: 9
+
+## Popularity
+
+- **Stars**: 868 · **Forks**: 61 · **Open issues**: 30 · **Contributors**: 1
+
+## Totals (cumulative)
+
+- **Releases**: 6 · **Merged PRs**: 61 · **Open PRs**: 11 · **Closed issues**: 13 · **Open issues**: 17 · **Commits**: 296
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 0 | 0 | 1 | 0 | 2 | 0 |
 
 ## Release assets
 
@@ -38,32 +68,13 @@ x install yai
 | [yai_0.6.0_windows_386.tar.gz](https://github.com/ekkinox/yai/releases/download/0.6.0/yai_0.6.0_windows_386.tar.gz) | 5.5 MiB | `native/win/x64` |
 | [yai_0.6.0_windows_amd64.tar.gz](https://github.com/ekkinox/yai/releases/download/0.6.0/yai_0.6.0_windows_amd64.tar.gz) | 5.8 MiB | `native/win/x64` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 868 · **Forks**: 61 · **Open issues**: 30 · **Contributors**: 1
+Reported by **8** distros on [repology.org](https://repology.org/project/yai). **8** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 6 · **Merged PRs**: 61 · **Open PRs**: 11 · **Closed issues**: 13 · **Open issues**: 17 · **Commits**: 296
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-
-## Code size
-
-Total: **2,364** lines of code across **44** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 2,245 | 19 | 460 | 33 |
-| Yaml | 60 | 0 | 5 | 2 |
-| Sh | 59 | 2 | 11 | 2 |
-| Markdown | 0 | 171 | 113 | 7 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `0.6.0` | ✅ latest |
 
 ## Improve this data
 
@@ -74,4 +85,4 @@ Install metadata for yai lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:25:03Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:59:11Z._
