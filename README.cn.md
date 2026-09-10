@@ -4,7 +4,7 @@
 
 Your AI powered terminal assistant.
 
-![yai](https://repo.x-cmd.io/yai.svg)
+![yai](https://repo.x-cmd.io/yai.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,20 @@ x install yai
 - **最新版本**: `0.6.0` (2023-04-25)
 - **最近提交**: 2023-12-14
 - **Release 含资产**: 9 个
-- **发布时间**: 2023-04-25T08:41:30Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [yai_0.6.0_checksums.txt](https://github.com/ekkinox/yai/releases/download/0.6.0/yai_0.6.0_checksums.txt) | 762 B | `other` |
+| [yai_0.6.0_darwin_amd64.tar.gz](https://github.com/ekkinox/yai/releases/download/0.6.0/yai_0.6.0_darwin_amd64.tar.gz) | 5.8 MiB | `native/darwin/x64` |
+| [yai_0.6.0_darwin_arm64.tar.gz](https://github.com/ekkinox/yai/releases/download/0.6.0/yai_0.6.0_darwin_arm64.tar.gz) | 5.6 MiB | `native/darwin/arm64` |
+| [yai_0.6.0_linux_386.tar.gz](https://github.com/ekkinox/yai/releases/download/0.6.0/yai_0.6.0_linux_386.tar.gz) | 5.2 MiB | `native/unknown` |
+| [yai_0.6.0_linux_amd64.tar.gz](https://github.com/ekkinox/yai/releases/download/0.6.0/yai_0.6.0_linux_amd64.tar.gz) | 5.7 MiB | `native/linux/x64` |
+| [yai_0.6.0_linux_arm64.tar.gz](https://github.com/ekkinox/yai/releases/download/0.6.0/yai_0.6.0_linux_arm64.tar.gz) | 5.1 MiB | `native/linux/arm64` |
+| [yai_0.6.0_linux_armv6.tar.gz](https://github.com/ekkinox/yai/releases/download/0.6.0/yai_0.6.0_linux_armv6.tar.gz) | 5.4 MiB | `native/linux/arm` |
+| [yai_0.6.0_windows_386.tar.gz](https://github.com/ekkinox/yai/releases/download/0.6.0/yai_0.6.0_windows_386.tar.gz) | 5.5 MiB | `native/win/x64` |
+| [yai_0.6.0_windows_amd64.tar.gz](https://github.com/ekkinox/yai/releases/download/0.6.0/yai_0.6.0_windows_amd64.tar.gz) | 5.8 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -61,4 +74,4 @@ yai 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:39:38Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:25:03Z._

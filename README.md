@@ -23,7 +23,20 @@ x install yai
 - **Latest**: `0.6.0` (2023-04-25)
 - **Last commit**: 2023-12-14
 - **Assets in release**: 9
-- **Published**: 2023-04-25T08:41:30Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [yai_0.6.0_checksums.txt](https://github.com/ekkinox/yai/releases/download/0.6.0/yai_0.6.0_checksums.txt) | 762 B | `other` |
+| [yai_0.6.0_darwin_amd64.tar.gz](https://github.com/ekkinox/yai/releases/download/0.6.0/yai_0.6.0_darwin_amd64.tar.gz) | 5.8 MiB | `native/darwin/x64` |
+| [yai_0.6.0_darwin_arm64.tar.gz](https://github.com/ekkinox/yai/releases/download/0.6.0/yai_0.6.0_darwin_arm64.tar.gz) | 5.6 MiB | `native/darwin/arm64` |
+| [yai_0.6.0_linux_386.tar.gz](https://github.com/ekkinox/yai/releases/download/0.6.0/yai_0.6.0_linux_386.tar.gz) | 5.2 MiB | `native/unknown` |
+| [yai_0.6.0_linux_amd64.tar.gz](https://github.com/ekkinox/yai/releases/download/0.6.0/yai_0.6.0_linux_amd64.tar.gz) | 5.7 MiB | `native/linux/x64` |
+| [yai_0.6.0_linux_arm64.tar.gz](https://github.com/ekkinox/yai/releases/download/0.6.0/yai_0.6.0_linux_arm64.tar.gz) | 5.1 MiB | `native/linux/arm64` |
+| [yai_0.6.0_linux_armv6.tar.gz](https://github.com/ekkinox/yai/releases/download/0.6.0/yai_0.6.0_linux_armv6.tar.gz) | 5.4 MiB | `native/linux/arm` |
+| [yai_0.6.0_windows_386.tar.gz](https://github.com/ekkinox/yai/releases/download/0.6.0/yai_0.6.0_windows_386.tar.gz) | 5.5 MiB | `native/win/x64` |
+| [yai_0.6.0_windows_amd64.tar.gz](https://github.com/ekkinox/yai/releases/download/0.6.0/yai_0.6.0_windows_amd64.tar.gz) | 5.8 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -57,8 +70,8 @@ Total: **2,364** lines of code across **44** files in the top 5 languages.
 Install metadata for yai lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `yai` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/yai.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/yai.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:39:37Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:25:03Z._
