@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 5930602,
       "digest": null,
-      "download_count": 4146,
+      "download_count": 4147,
       "created_at": "2023-04-25T08:46:20Z",
       "updated_at": "2023-04-25T08:46:21Z",
       "browser_download_url": "https://github.com/ekkinox/yai/releases/download/0.6.0/yai_0.6.0_linux_amd64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 5781284,
       "digest": null,
-      "download_count": 77,
+      "download_count": 78,
       "created_at": "2023-04-25T08:46:21Z",
       "updated_at": "2023-04-25T08:46:21Z",
       "browser_download_url": "https://github.com/ekkinox/yai/releases/download/0.6.0/yai_0.6.0_windows_386.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 6039048,
       "digest": null,
-      "download_count": 238,
+      "download_count": 239,
       "created_at": "2023-04-25T08:46:18Z",
       "updated_at": "2023-04-25T08:46:19Z",
       "browser_download_url": "https://github.com/ekkinox/yai/releases/download/0.6.0/yai_0.6.0_windows_amd64.tar.gz"
