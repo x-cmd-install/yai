@@ -1,0 +1,90 @@
+- repo: aur
+  srcname: yai
+  binname: yai
+  visiblename: yai
+  version: 0.6.0
+  origversion: 0.6.0-1
+  status: newest
+  summary: Yai - Your AI powered terminal assistant
+  maintainers:
+    - kaida@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: yai-bin
+  binname: yai-bin
+  visiblename: yai-bin
+  version: 0.6.0
+  origversion: 0.6.0-1
+  status: newest
+  summary: Your AI powered terminal assistant
+  maintainers:
+    - vitaliikuzhdin@aur
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: yai
+  visiblename: yai
+  version: 0.6.0
+  origversion: null
+  status: newest
+  summary: Your AI powered terminal assistant
+  maintainers:
+    - incense.stitch_0w@icloud.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: yai
+  visiblename: yai
+  version: 0.6.0
+  origversion: null
+  status: newest
+  summary: Your AI powered terminal assistant
+  maintainers:
+    - incense.stitch_0w@icloud.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: yai
+  visiblename: yai
+  version: 0.6.0
+  origversion: null
+  status: newest
+  summary: Your AI powered terminal assistant
+  maintainers:
+    - incense.stitch_0w@icloud.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: yai
+  visiblename: yai
+  version: 0.6.0
+  origversion: null
+  status: newest
+  summary: Your AI powered terminal assistant
+  maintainers:
+    - incense.stitch_0w@icloud.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: yai
+  visiblename: yai
+  version: 0.6.0
+  origversion: null
+  status: newest
+  summary: Your AI powered terminal assistant
+  maintainers:
+    - incense.stitch_0w@icloud.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: yai
+  visiblename: yai
+  version: 0.6.0
+  origversion: null
+  status: newest
+  summary: Your AI powered terminal assistant
+  maintainers:
+    - incense.stitch_0w@icloud.com
+  licenses:
+    - MIT
